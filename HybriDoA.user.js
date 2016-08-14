@@ -13,9 +13,9 @@
 // @include       *://*.castle.rykaiju.com/platforms/*/game*
 // @include       *://www.kabam.com/fr/games/dragons-of-atlantis/play*
 //
-// @resource      html        https://raw.github.com/doascanner/Doa-tools-Hybrid/hybridoa.html
-// @resource      style       https://raw.github.com/doascanner/Doa-tools-Hybrid/hybridoa.css
-// @resource      terrains    https://raw.github.com/doascanner/Doa-tools-Hybrid/terrains-sprite.png
+// @resource      html        https://doaprotool.fr/ultima_tool/hybridoa/hybridoa.html
+// @resource      style       https://doaprotool.fr/ultima_tool/hybridoa/hybridoa.css
+// @resource      terrains    https://doaprotool.fr/ultima_tool/hybridoa/terrains-sprite.png
 //
 // @run-at        document-start
 // @grant         GM_xmlhttpRequest
@@ -23,7 +23,7 @@
 // @grant         GM_getResourceURL
 //
 // @homepage      https://github.com/doascanner/Doa-tools-Hybrid
-// @icon          https://doaprotool.fr/hybriDoa/hybridoa.png
+// @icon          https://doaprotool.fr/ultima_tool/hybridoa/hybridoa.png
 // @author        Doascanner
 // @copyright     2016+, Doascanner
 // @license       Creative Commons 4.0 BY-NC-SA, http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
