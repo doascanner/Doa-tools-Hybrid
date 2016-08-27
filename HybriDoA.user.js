@@ -1,6 +1,5 @@
-// ==UserScript==
-// @name          HybriDoA modded by Doascanner
-// @namespace     Doascanner
+// @name          HybriDoA
+// @namespace     fr.kergoz-panic.watilin
 // @version       0.2(beta)
 // @description   Projet de remplacer le SWF par du pur HTML5
 //
@@ -11,7 +10,6 @@
 // @include       *://www.kabam.com/dragons-of-atlantis/play
 // @include       *://www.kabam.com/*/dragons-of-atlantis/*
 // @include       *://*.castle.rykaiju.com/platforms/*/game*
-// @include       *://www.kabam.com/fr/games/dragons-of-atlantis/play*
 //
 // @resource      html        https://doaprotool.fr/ultima_tool/hybridoa/hybridoa.html
 // @resource      style       https://doaprotool.fr/ultima_tool/hybridoa/hybridoa.css
@@ -27,7 +25,6 @@
 // @author        Doascanner
 // @copyright     2016+, Doascanner
 // @license       Creative Commons 4.0 BY-NC-SA, http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
-// ==/UserScript==
 
 /* >>>>>>>>>>>>>>>>>>>>>>> IMPORTANT! <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
