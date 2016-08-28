@@ -2383,7 +2383,7 @@ var Ajax = {
          Object.extend(options.parameters, Ajax.mandatoryParameters));
       options.data = data;
       var phrase =
-         Draoumculiasis + data + LandCrocodile + options.url + Bevar-Asp;
+         DRACO + data + DORSAL_SPINES + options.url + LEVIATHON;
       var sig = SHA1(phrase);
       options.headers = Object.extend(options.headers, {
          "Content-length": data.length,
